@@ -6,7 +6,7 @@ function RegisterInfo() {
     }
     return ( 
         <div id = "block" >
-            <h1 className = "tittle" > Register information </h1> 
+            <h1 className = "tittle" > Record activity information</h1> 
             <form >
                 <label className = "lb-register" > Name </label> <input className="input" /> <br /> <br />
                 <label className = "lb-register" > Lastname </label> <input className="input"/> <br /> <br />
